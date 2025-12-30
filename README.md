@@ -81,15 +81,8 @@ Capture human feedback (👍 / 👎)
 
 No dashboards. No visual noise. The focus stays on ML behavior.
 
-📁 Repository Structure
-failure-aware-recommender/
-│
-├── app.py            # Streamlit UI
-├── recommender.py    # Core recommendation + confidence logic
-├── feedback.py       # Human feedback handling
-├── data/             # Sample datasets
-├── screenshots/      # Demo GIF / images
-└── requirements.txt
+#Datasets
+Download Movielens and Amazon Products datasets from kaggle
 
 ⚡ Setup
 pip install -r requirements.txt
@@ -102,5 +95,6 @@ Replace heuristic feedback weighting with online learning
 Extend to user-based personalization
 
 Add concept-drift monitoring
+
 
 Evaluate ranking metrics (NDCG / MAP)
