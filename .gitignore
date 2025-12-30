@@ -1,0 +1,5 @@
+echo venv/ > .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pkl >> .gitignore
+echo data/ >> .gitignore
+echo .DS_Store >> .gitignore

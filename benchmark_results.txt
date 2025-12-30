@@ -1,0 +1,2 @@
+| Avg Confidence | 0.261 | 0.365 | Movies |
+| Fallback Rate  | 2.0% | 0.0% | Movies |
